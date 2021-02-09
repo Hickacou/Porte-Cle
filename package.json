@@ -1,0 +1,19 @@
+{
+  "name": "porte-cle",
+  "version": "1.0.0",
+  "description": "Pour sauver nos messages",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://hicka.dev/porte-cle"
+  },
+  "author": "Hicka",
+  "license": "MIT"
+}
